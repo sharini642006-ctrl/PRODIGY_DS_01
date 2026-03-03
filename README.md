@@ -15,7 +15,7 @@ The dataset is sourced from the **World Bank** and provided by Prodigy InfoTech:
 - `API_SP.POP.TOTL_DS2_en_csv_v2_3.csv` → Population data (1960–2020).
 - `Metadata_Country_API_SP.POP.TOTL.csv` → Country metadata (Region, IncomeGroup).
 
----
+-
 
 ## 📊 Visualizations
 
